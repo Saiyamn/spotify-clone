@@ -4,7 +4,7 @@ import { samplePlaylists } from "../../data/sampledata";
 
 const Maindisplay = () => {
   return (
-    <div className="text-white h-[100%] bg-[#121212]">
+    <div className="text-white h-[665px] bg-[#121212] overflow-hidden overflow-y-auto">
       <div className="flex items-center justify-between p-3">
         <p className="text-white text-2xl font-semibold">Spotify playlist</p>
         <p>Show all</p>
