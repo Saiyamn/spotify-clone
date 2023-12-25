@@ -11,4 +11,6 @@
 
 
 ## The project is under implementation hence the repository will be updated progressively.
+
+[Project website link](https://visionary-faun-d7e1c2.netlify.app/) with implemented components as per latest development efforts.
    
