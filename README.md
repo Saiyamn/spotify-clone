@@ -8,4 +8,7 @@
 * User can create a playlist of available songs.
 * User can update and delete playlist.
 * User can play/pause the song using the music player.
+
+
+## The project is under implementation hence the repository will be updated progressively.
    
